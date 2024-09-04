@@ -4,7 +4,7 @@ import java.util.HashMap;
 import java.util.Map;
 
 public class ApiKeyConfig {
-    public static final Map<String, Integer> API_KEYS = new HashMap<>();
+    public static Map<String, Integer> API_KEYS = new HashMap<>();
 
     static {
         API_KEYS.put("key1", 0);
