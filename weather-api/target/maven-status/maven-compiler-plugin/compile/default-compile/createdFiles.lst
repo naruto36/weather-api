@@ -1,0 +1,8 @@
+com\example\weatherapi\service\WeatherService.class
+com\example\weatherapi\repository\WeatherDataRepository.class
+com\example\weatherapi\WeatherApiApplication.class
+com\example\weatherapi\App.class
+com\example\weatherapi\config\AppConfig.class
+com\example\weatherapi\config\ApiKeyConfig.class
+com\example\weatherapi\model\WeatherData.class
+com\example\weatherapi\controller\WeatherController.class
